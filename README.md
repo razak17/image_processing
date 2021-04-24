@@ -1,2 +1,2 @@
-# image_processing
-Image Processing in Python
+# Image Processing for Machine Learning
+Image Processing in Python using scikit-image. From datacamp
