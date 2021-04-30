@@ -1,6 +1,8 @@
 from matplotlib import pyplot as plt
 from skimage.filters import gaussian
 from utils import show_image
+from skimage.restoration import denoise_tv_chambolle, rotate
+
 
 image = plt.imread('images/sharp.jpg')
 
